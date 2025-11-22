@@ -13,11 +13,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
 - **ME02_G7_Modelo.ipynb**: Notebook debidamente documentado con el código para la en análisis y tratamiento de los datos.
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
-- **DataSet_PREDITIMESACC_V1.xlsx**: Dataset inicial ajustada con información de los datos a trabajar (Versión 1.0).
-- **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima, descripción del caso y dirección (Versión 2.0).
-- **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información ubicación de origen y dirección generada desde el campo descripción (Versión 3.0).
-- **DataSet_PREDITIMESACC_V4.xlsx**: Dataset actualizado con información ubicación en terminos de latitud y longitud (Versión 4.0).
-- **DataSet_PREDITIMESACC_V5.xlsx**: **Dataset Final** actualizado con información ubicación en terminos de distancia entre origen y destino (Versión Final 5.0).
+- **DataSet_Final.xlsx**: **Dataset Final** actualizado con todo el tratamiento de datos aplicado y listo para ser usado en el proyecto.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_01.docx**: Monografia 2025_01 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito Semestre I (Versión 1.0).
 - **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**: **Version Final** Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento).
