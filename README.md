@@ -11,8 +11,8 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 ## Contenido
 
 - **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
-- **Prepocesamiento_01.ipynb**: Notebook de propocesamiento de datos para el dataset final con limpieza y generación de datos adicionales.
-- **ME02_EACD_Modelo.ipynb**: Notebook debidamente documentado con el código para la en análisis, evaluación y selección del modelo.
+- **NoteBook/EACD_Prepocesamiento_01.ipynb**: Notebook de propocesamiento de datos para generar el dataset final con limpieza y generación de datos adicionales.
+- **NoteBook/EACD_Modelo_02.ipynb**: Notebook debidamente documentado con el código para la en análisis, evaluación y selección del modelo.
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
 - **DataSet_PREDITIMESACC_v1.xlsx**: Dataset inicial ajustada con información de los datos a trabajar (Versión 1.0).
 - **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima (Versión 2.0).
@@ -34,7 +34,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 Preprocesamiento: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TLM4jfKdyrxn0puJRCbN6uFvBfNxh2k6)
 Modelo: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xwDWz_EMBLOzOTxIhov6jOxgKw-UDou6) 
  
-- En caso de no tener acceso a Colab, se puede usar el Notebook de este repositorio ME02_G7_Modelo.ipynb, se deben seguir los siguientes paso:
-	- **Paso 1**: Se descarga el Notebook ME02_G7_Modelo.ipynb del repositorio y se carga en un ambiente que se pueda ejecutar preferiblemente Colab.
+- En caso de no tener acceso a Colab, se puede usar el Notebook de este repositorio NoteBook/EACD_Prepocesamiento_01.ipynb o NoteBook/EACD_Modelo_02.ipynb, se deben seguir los siguientes paso:
+	- **Paso 1**: Se descarga el Notebook del repositorio y se carga en un ambiente que se pueda ejecutar preferiblemente Colab.
 	- **Paso 2**: Una vez carga el Notebook en un ambiente que se puede ejecutat seguir los paso que allí están debidamente documentados, correr cada una de las secciones de código en el orden que están en el Notebook.
-- El Dataset está referenciado al enlace público del repositorio, no es necesario hacer ningún cambio para que se importe en el Noteboob
+- El Dataset está referenciado al enlace público del repositorio, no es necesario hacer ningún cambio para que se importe en el Notebook
