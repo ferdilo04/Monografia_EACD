@@ -10,18 +10,18 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 
 ## Contenido
 
-- **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
-- **NoteBook/01_Ajustar_dataset_inicial.ipynb**: Notebook para ajustar datos inciales en el dataset final con limpieza y generación de datos adicionales.
+- **NoteBook/01_Ajustar_dataset_inicial.ipynb**: Notebook para ajustar datos inciales en el dataset final con limpieza y generación de variables adicionales.
 - **NoteBook/02_Analisis_Exploratorio.ipynb**: Notebook de analisis exploratorio.
 - **NoteBook/03_Limpieza_prepocesamiento.ipynb**: Notebook de prepocesamiento de datos para generar el dataset final ajustado.
 - **NoteBook/04_Entrenamiento_ejecucion_modelo.ipynb**: Notebook debidamente documentado con el código para entrenamiento, evaluación y selección del modelo.
-- **NoteBook/05_Modelo_Completo.ipynb**: Notebook completo con todos los paso (Lipieza, preprocesamiento,particionamiento, entrenamiento y evaluación).
+- **NoteBook/05_Modelo_Completo.ipynb**: Notebook completo que agrupa todos los pasos en un solo lugar (Ajuste y lipieza DataSet, preprocesamiento,particionamiento, entrenamiento y evaluación).
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
 - **DataSet_PREDITIMESACC_v1.xlsx**: Dataset inicial ajustada con información de los datos a trabajar (Versión 1.0).
 - **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima (Versión 2.0).
 - **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información de la ubicación de origen y dirección generada desde el campo descripción (Versión 3.0).
 - **DataSet_PREDITIMESACC_V4.xlsx**: Dataset actualizado con información ubicación en terminos de latitud y longitud (Versión 4.0).
 - **DataSet_PREDITIMESACC_V5.xlsx**: **Dataset Final** actualizado con información ubicación en terminos de distancia entre origen y destino (Versión Final 5.0).
+- **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**:Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento).
