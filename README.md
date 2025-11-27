@@ -21,11 +21,12 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima (Versión 2.0).
 - **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información de la ubicación de origen y dirección generada desde el campo descripción (Versión 3.0).
 - **DataSet_PREDITIMESACC_V4.xlsx**: Dataset actualizado con información ubicación en terminos de latitud y longitud (Versión 4.0).
-- **DataSet_PREDITIMESACC_V5.xlsx**: *Dataset Final* actualizado con información ubicación en terminos de distancia entre origen y destino (Versión Final 5.0).
+- **DataSet_PREDITIMESACC_V5.xlsx**: **Dataset Final** actualizado con información ubicación en terminos de distancia entre origen y destino (Versión Final 5.0).
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**:Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento).
-- **Documentos/Detalle_ajuste_hiperparametros**: Detalle en excel de los ajustes de hiperparametros para cada uno de los 10 modelos usados en el analisis.
+- **Documentos/Detalle_ajuste_hiperparametros/Ajustes V1**: Detalle en excel de los ajustes de hiperparametros con *GridSearchCV* y *RandomizedSearch* basados en el R2 de entrenamiento para 12 modelos.
+- **Documentos/Detalle_ajuste_hiperparametros/Ajustes V2**: Detalle en excel de los ajustes de hiperparametros con *GridSearchCV* basados en el R2 de entrenamiento y R2 des test para 10 modelos.
 - **Documentos/Detalle_ajuste_hiperparametros/RESUMEN_COMPLETO_HIPERPARAMETROS.xlsx**: Resumen consolidado de ajustes de hiperparametros.
 
 
