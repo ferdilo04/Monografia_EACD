@@ -15,7 +15,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **NoteBook/03_Limpieza_prepocesamiento.ipynb**: Notebook de prepocesamiento de datos para generar el dataset final ajustado.
 - **NoteBook/04_Entrenamiento_ejecucion_modelo.ipynb**: Notebook debidamente documentado con el código para entrenamiento, evaluación y selección del modelo.
 - **NoteBook/05_Modelo_Completo.ipynb**: Notebook completo que agrupa todos los pasos en un solo lugar (Ajuste y lipieza DataSet, preprocesamiento,particionamiento, entrenamiento y evaluación).
-- **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
+- **DataSet_aseguradora.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
 - **DataSet_PREDITIMESACC_v1.xlsx**: Dataset inicial ajustada con información de los datos a trabajar (Versión 1.0).
 - **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima (Versión 2.0).
 - **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información de la ubicación de origen y dirección generada desde el campo descripción (Versión 3.0).
