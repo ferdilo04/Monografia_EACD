@@ -24,7 +24,8 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
-- **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**:Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento).
+- **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**:Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento en Word).
+- **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.pdf**:Monografia 2025_02 Semestre II -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento en pdf).
 - **Documentos/Detalle_ajuste_hiperparametros/Ajustes V1**: Detalle en excel de los ajustes de hiperparametros con *GridSearchCV* y *RandomizedSearch* basados en el R2 de entrenamiento para 12 modelos.
 - **Documentos/Detalle_ajuste_hiperparametros/Ajustes V2**: Detalle en excel de los ajustes de hiperparametros con *GridSearchCV* basados en el R2 de entrenamiento y R2 des test para 10 modelos.
 - **Documentos/Detalle_ajuste_hiperparametros/RESUMEN_COMPLETO_HIPERPARAMETROS.xlsx**: Resumen consolidado de ajustes de hiperparametros.
